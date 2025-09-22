@@ -144,10 +144,6 @@ PROJECT/
 
 ## ⚙️ Implementation Details
 
-### Path Management
-- Uses relative paths throughout the codebase for maximum portability
-- Easy deployment across different environments and operating systems
-
 ### Scheduling Algorithm
 - Constraint-based scheduling with conflict detection
 - Optimization for teacher workload distribution
@@ -163,17 +159,6 @@ PROJECT/
 ### Academic Papers and Research
 #### University Course Timetabling
 - [A Comprehensive Survey of Educational Timetabling](https://doi.org/10.1007/s10951-021-00691-w)
-- [Recent Developments in University Timetabling](https://link.springer.com/chapter/10.1007/978-3-540-77345-0_1)
-- [A Graph-Based Hyper-Heuristic for Educational Timetabling Problems](https://www.sciencedirect.com/science/article/abs/pii/S0377221711007296)
-
-#### Optimization Algorithms
-- [Simulated Annealing: A Component-Based Analysis](https://www.sciencedirect.com/science/article/abs/pii/S0305054818303277)
-- [A Comparison of Genetic Algorithms and Simulated Annealing in University Timetabling Problems](https://ieeexplore.ieee.org/document/6215042)
-- [Tabu Search for University Course Timetabling](https://doi.org/10.1007/s10951-005-4507-y)
-
-#### Constraint Satisfaction Problems
-- [Constraint-Based Scheduling in Education](https://www.sciencedirect.com/science/article/abs/pii/S0377221707010077)
-- [Integer Programming Models for Class Scheduling](https://pubsonline.informs.org/doi/abs/10.1287/opre.48.5.700.12392)
 
 ### Technical Resources
 - [Flask Documentation](https://flask.palletsprojects.com/)
