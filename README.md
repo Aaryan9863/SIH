@@ -1,4 +1,30 @@
+Smart Classroom and Timetable Scheduler​
 
+This README provides an overview of the project, including team details, relevant links, tasks completed, tech stack, key features, and steps to run the project locally.
+
+## Team Details
+
+**Team Name:** WebWizards NSUT​
+
+**Team Leader:** [@Aaryan9863](https://github.com/Aaryan9863)
+
+**Team Members:**
+
+- **MEMBER_1** - 2025UIT3314 [@Aaryan9863](https://github.com/Aaryan9863)
+- **MEMBER_2** - 
+- **MEMBER_3** - 
+- **MEMBER_4** - 
+- **MEMBER_5** - 
+- **MEMBER_6** - 
+
+## Project Links
+
+- **SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
+- **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)
+- **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)
+- **Source Code:** [GitHub Repository](GITHUB LINK TO THE REPO)
+- **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)
+- 
 # Class Schedule Application
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
