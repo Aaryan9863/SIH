@@ -8,9 +8,7 @@
 
 A comprehensive web-based class scheduling system for educational institutions. The application features drag-and-drop timetable management, conflict detection, and an intuitive interface for administrators and teachers.
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x450.png?text=Class+Scheduling+System" alt="Class Schedule Application Screenshot" width="80%">
-</p>
+
 
 ## 🌟 Key Features
 
